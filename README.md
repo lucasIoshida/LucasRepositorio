@@ -6,7 +6,7 @@ amo Deus odeio o diabo
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>50% DE DESCONTO NA COMPRA DO IPHONE 13 APENAS HOJE</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -18,5 +18,5 @@ amo Deus odeio o diabo
         </ul>
     </header>
 
-</body>
+</body> 
 </html>
