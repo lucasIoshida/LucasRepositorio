@@ -18,5 +18,3 @@ amo Deus odeio o diabo
         </ul>
     </header>
 
-    ![images](https://github.com/lucasIoshida/LucasRepositorio/assets/162140061/0d8ba0d7-071c-493e-9296-c82bcaa0e24c)
-
