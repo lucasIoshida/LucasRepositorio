@@ -12,13 +12,9 @@ amo Deus odeio o diabo
 <body>
     <header>
         <h1></h1>
-       ![download](https://github.com/lucasIoshida/LucasRepositorio/assets/162140061/ece5f3f9-7b23-45fa-ad2a-e8e87fba9b5c)
-
         <ul>
             <li>Ceppat</li>
             <li>Lucas Bryan</li>
         </ul>
     </header>
 
-</body> 
-</html>
